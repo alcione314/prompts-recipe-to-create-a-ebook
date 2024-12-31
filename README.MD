@@ -38,13 +38,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de e-book sobre o tema Métricas. O tema é do nicho de Gerenciamento e o subnicho de Software. O título deve ser épico e curto e tenha uma temática mais gerencial. Me liste 5 variações de títulos. |
-| conteúdo | Faça um texto para e-book com o título “Transformando dados em decisões: Métricas de sucesso na gestão de software”, com foco em medição e análise de software usando como base uma síntese do documento que enviei. 
-{REGRAS}
-. Explique sempre de uma maneira simples.
-. Deixe o texto enxuto.
-. Sempre traga informações reais.
-. Sempre deixe um título sugestivo por tópico.
-. Estruture em capítulos. |
+| conteúdo | Faça um texto para e-book com o título “Transformando dados em decisões: Métricas de sucesso na gestão de software”, com foco em medição e análise de software usando como base uma síntese do documento que enviei. {REGRAS} . Explique sempre de uma maneira simples. Deixe o texto enxuto. Sempre traga informações reais. Sempre deixe um título sugestivo por tópico. Estruture em capítulos. |
 | capa | Crie uma imagem que retrate o tema "Transforming Data into Decisions: Success Metrics in Software Management"|
 
 ## ✨ Features
