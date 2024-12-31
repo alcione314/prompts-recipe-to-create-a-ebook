@@ -21,10 +21,9 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso de IA na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. Foram experimentadas diversas plataformas gratuitas, mas a que melhor respondeu os textos foi o chatgpt. Não consegui acessar o MidJourney para imagens. Uma das plafatormas usadas para as imagens foi a Davinci. Segue, abaixo, o e-book gerado e um dos prompts usados.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/alcione314/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
