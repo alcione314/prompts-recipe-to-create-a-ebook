@@ -21,7 +21,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso de IA na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. Foram experimentadas diversas plataformas gratuitas, mas a que melhor respondeu os textos foi o chatgpt. Não consegui acessar o MidJourney para imagens. Segue, abaixo, o e-book gerado e um dos prompts usados. Usei, como referência de conteúdo, o Roteiro de Métricas do SISP.
+Projeto com o objetivo de gerar um e-book digital com as facilidades das ferramentas de IA. Foram experimentadas diversas plataformas gratuitas, mas a que gerou melhores resultados, tanto para os textos como para as imagens, foi o chatgpt. Não consegui acessar o MidJourney para imagens, pois não estava mais disponível a versão beta. Segue, abaixo, o e-book gerado e um dos prompts usados. Usei, como referência de conteúdo, o Roteiro de Métricas do SISP.
 
 <a href="https://github.com/alcione314/prompts-recipe-to-create-a-ebook/blob/main/Transformando-Dados-em-Decisoes%20vers%C3%A3o%20final.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
