@@ -11,7 +11,7 @@
 
 <p align="center">
 <img 
-    src="assets/Capa.png"
+    src="assets/Exemplo.png"
     width="400"  
 />
 </p>
