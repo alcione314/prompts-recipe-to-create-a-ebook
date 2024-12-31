@@ -67,11 +67,7 @@ Utilizei variações dos prompts acima nas ferramentas sugeridas para gerar o ma
     &nbsp&nbsp&nbsp
     <a href="https://github.com/alcione314">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/alcioneramos">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/alcionejandircandeas/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    </p>
 </p>
 <br/><br/>
 <p>
