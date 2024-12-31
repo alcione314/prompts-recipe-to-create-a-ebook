@@ -61,7 +61,7 @@ Utilizei variações dos prompts acima nas ferramentas sugeridas para gerar o ma
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/account"
     />
     <p>&nbsp&nbsp&nbspAlcione Ramos<br>
     &nbsp&nbsp&nbsp
