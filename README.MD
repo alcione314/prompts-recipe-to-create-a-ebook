@@ -48,7 +48,7 @@ ChatGPT：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado durante as aulas na raiz
 
 ## 🛠️ Instruções de execução
 
